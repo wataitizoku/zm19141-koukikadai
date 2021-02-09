@@ -1,0 +1,8 @@
+h1 { color: rgb(233, 211, 10); }
+
+h1 { color: rgb(235, 120, 6); }
+th, td { border: dashed thick black; }
+th.important { color: rgb(161, 7, 7); }
+p.sample1 {border: double 10px #09c402;}
+p.sample2 {border: inset 10px #910808c0;}
+p.sample3 {margin: 30px 30px;padding: 10px;border:medium solid #05091b;}
